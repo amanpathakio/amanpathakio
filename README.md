@@ -65,20 +65,39 @@ An AI-powered course generator designed to transform a topic or learning goal in
 
 ---
 
+
+
 ## 📊 GitHub Analytics
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/overview.light.svg">
+  <img src="./assets/overview.light.svg" alt="GitHub overview statistics" width="100%">
+</picture>
 
-<a href="https://github.com/amanpathakio">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanpathakio&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=transparent" height="170" alt="Aman's GitHub statistics" />
-</a>
+### 🔥 Contribution Streak & Activity
 
-<a href="https://github.com/amanpathakio">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpathakio&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="170" alt="Aman's top languages" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contributions.light.svg">
+  <img src="./assets/contributions.light.svg" alt="GitHub contribution streak and activity" width="100%">
+</picture>
 
-</div>
+### 📈 Contribution History
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/lifetime.light.svg">
+  <img src="./assets/lifetime.light.svg" alt="GitHub contribution history" width="100%">
+</picture>
+
+### 💻 Language Overview
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/languages.light.svg">
+  <img src="./assets/languages.light.svg" alt="GitHub language overview" width="100%">
+</picture>
 ---
 
 ## 🛠️ Languages & Tools

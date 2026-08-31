@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Full stack Dev , Agentic AI**
 
-- 📫 How to reach me **aman-pathak@outlook.comm**
+- 📫 How to reach me **aman-pathak@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
